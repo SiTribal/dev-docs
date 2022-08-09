@@ -7,8 +7,7 @@ Month: August
 * CLI tooling for repo to enable api and design modes from the root, clean and build tools. 
 * need to make the same script key in all relevant packages
 * also edit the turbo.json 
-* git commit msging enformace with regex 
-  #### '([A-Z]{2,}-\d+)'
+* git commit msging enformace with regex  '([A-Z]{2,}-\d+)'
 
   #### Turbo JSON
   ![turbo.json](../public/turbo-json.png)
